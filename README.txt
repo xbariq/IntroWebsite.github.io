@@ -10,7 +10,7 @@ uzaaaiiir
 Gianni031
 GurjotGrewal123
 thealexand
-xbariq 
+xbariq
 
 GitHub Pages Link
 Name: IntroWebsite
