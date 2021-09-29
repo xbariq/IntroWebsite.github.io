@@ -7,6 +7,7 @@ https://github.com/IntroWebsite/IntroWebsite.github.io
 
 GitHub Accounts:
 uzaaaiiir
+Gianni031
 
 GitHub Pages Link
 Name: IntroWebsite
