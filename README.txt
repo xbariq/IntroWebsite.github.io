@@ -9,6 +9,7 @@ GitHub Accounts:
 uzaaaiiir
 Gianni031
 GurjotGrewal123
+thealexand
 
 GitHub Pages Link
 Name: IntroWebsite
